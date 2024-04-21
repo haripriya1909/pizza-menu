@@ -94,12 +94,12 @@ body {
   flex-direction: column;
 }
 
-/* .pizzas {
+.pizzas {
   list-style: none;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 4.8rem;
-} */
+  gap: 4.2rem;
+}
 .pizza {
   display: flex;
   flex-direction: column;
@@ -132,14 +132,14 @@ body {
   font-size: 0.4rem;
 }
 
-/* .pizza.sold-out {
+.pizza.sold-out {
   color: #888;
 }
-s
+
 .pizza.sold-out img {
   filter: grayscale();
   opacity: 0.8;
-} */
+}
 
 /* *************** */
 
